@@ -13,8 +13,9 @@ Tools used:
 1. React JS
 2. [react-jutsu](https://www.npmjs.com/package/react-jutsu)
 3. [react-router-dom](https://www.npmjs.com/package/react-router-dom)
-4. npm - for dependency management
-5. git - for version control
-6. Netlify - for deployment
-7. Tailwind CSS
-8. Font Awesome
+4. REST Chat Engine API
+5. npm - for dependency management
+6. git - for version control
+7. Netlify - for deployment
+8. Tailwind CSS
+9. Font Awesome
