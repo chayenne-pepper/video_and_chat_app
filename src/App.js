@@ -23,7 +23,7 @@ function App() {
 
       returnedProps.history.push('/meeting')
     } else {
-      alert('Please fill the appropriate fields!')
+      alert('Please fill in the appropriate fields')
     }
   }
 
