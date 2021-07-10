@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom'
 import Home from './home_page'
 import Chat from './chat'
-import VideoChat from './video-chat'
+import VideoChat from './video_chat'
 
 function App() {
   const [room, setRoom] = useState('')
