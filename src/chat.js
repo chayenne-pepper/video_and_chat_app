@@ -1,4 +1,4 @@
-//the whole chat part of the application
+//the chat part of the application
 import React, { useState, useEffect } from 'react'
 import {ChatEngine} from 'react-chat-engine'
 import Header from './header'
