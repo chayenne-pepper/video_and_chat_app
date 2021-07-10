@@ -3,8 +3,8 @@ import React, { useState, useEffect } from 'react'
 import {ChatEngine} from 'react-chat-engine'
 import Header from './header'
 import axios from 'axios'
-const PRODUCT_ID = '97072f7c-b17d-4ea3-becc-03504489f9cb'
-const PRIVATE_KEY = 'd3e5f392-8941-4b04-ade4-8ff334f937cf'
+const PRODUCT_ID = 'enter-your-project-id-here'
+const PRIVATE_KEY = 'enter-your-private-key-here'
 
 export default function Chat() {
   const [isLoggedIn, setIsLoggedIn] = useState(false)
@@ -50,7 +50,7 @@ export default function Chat() {
   
 }
 
-
+//function for authentication
 function Auth(props) {
   const [username, setUsername] = useState('')
   const [password, setPassword] = useState('')
