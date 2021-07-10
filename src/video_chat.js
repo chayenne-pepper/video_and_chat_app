@@ -1,3 +1,4 @@
+//the video conferencing part of the application
 import React, { useEffect } from 'react' 
 import { Jutsu } from 'react-jutsu'
 import Header from './header'
