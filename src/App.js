@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './App.css'
+import './Chat.css'
 import {
   BrowserRouter as Router,
   Switch,
