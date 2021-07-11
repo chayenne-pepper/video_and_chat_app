@@ -4,6 +4,8 @@
 
 This project has been built using the Agile Scrum Methodology. [See how](https://trello.com/b/53V1bzJz/engage-agile-board)
 
+View the Video Demo
+
 ## For installation:
 1. Clone the repository
 2. Navigate to the current folder
