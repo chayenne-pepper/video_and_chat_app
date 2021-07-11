@@ -9,9 +9,9 @@ View the Video Demonstration
 ## For installation:
 1. Clone the repository
 2. Navigate to the current folder
-3. Run ' npm install ' to install the node modules
-4. Create an account on [chatengine.io](https://chatengine.io/) to create your own public and private key
-5. Run the application on your local host with ' npm start '
+3. Run '''bash npm install ''' to install the node modules
+5. Create an account on [chatengine.io](https://chatengine.io/) to create your own public and private key
+6. Run the application on your local host with ' npm start '
 
 The project has been deployed using [Netlify](https://www.netlify.com/)
 
