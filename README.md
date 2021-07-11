@@ -16,10 +16,11 @@ The project has been deployed using [Netlify](https://www.netlify.com/)
 1. [React JS](https://reactjs.org/)
 2. [react-jutsu](https://www.npmjs.com/package/react-jutsu)
 3. [react-router-dom](https://www.npmjs.com/package/react-router-dom)
-4. [REST Chat Engine API](https://rest.chatengine.io/)
-5. [Netlify](https://www.netlify.com/)
-6. [Tailwind CSS](https://tailwindcss.com/) 
-7. [Font Awesome](https://fontawesome.com/)
+4. [axios](https://www.npmjs.com/package/axios)
+5. [REST Chat Engine API](https://rest.chatengine.io/)
+6. [Netlify](https://www.netlify.com/)
+7. [Tailwind CSS](https://tailwindcss.com/) 
+8. [Font Awesome](https://fontawesome.com/)
 
 ## Features:
 1. Create a new meeting or join an existing meeting
