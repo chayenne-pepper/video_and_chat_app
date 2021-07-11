@@ -25,5 +25,5 @@ The project has been deployed using [Netlify](https://www.netlify.com/)
 1. Create a new meeting or join an existing meeting
 2. Connect with upto 30 participants on video
 3. Create an account to chat with your friends; supports upto 25 participants on chat
-4. Video call includes all the standard functionalities such as raise hand, record meeting, view participants, in-meeting chat, 
-mute video and audio for all participants, screen sharing and video sharing.
+4. Video call includes all the standard functionalities such as raise hand, record meeting, view participants, 
+in-meeting chat, mute video and audio for all participants, screen sharing and video sharing.
