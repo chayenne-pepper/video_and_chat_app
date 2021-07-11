@@ -9,9 +9,9 @@ View the Video Demonstration
 ## For installation:
 1. Clone the repository
 2. Navigate to the current folder
-3. Run '''bash npm install ''' to install the node modules
-5. Create an account on [chatengine.io](https://chatengine.io/) to create your own public and private key
-6. Run the application on your local host with ' npm start '
+3. Run `npm install` to install the node modules
+4. Create an account on [chatengine.io](https://chatengine.io/) to create your own public and private key
+5. Run the application on your local host with `npm start`
 
 The project has been deployed using [Netlify](https://www.netlify.com/)
 
@@ -31,3 +31,4 @@ The project has been deployed using [Netlify](https://www.netlify.com/)
 3. Create an account to chat with your friends; supports upto 25 participants on chat
 4. Video call includes all the standard functionalities such as raise hand, record meeting, view participants, 
 in-meeting chat, mute video and audio for all participants, screen sharing and video sharing.
+
