@@ -6,6 +6,7 @@ import axios from 'axios'
 const PRODUCT_ID = 'enter-your-project-id-here'
 const PRIVATE_KEY = 'enter-your-private-key-here'
 
+//export the componenet "Chat"
 export default function Chat() {
   const [isLoggedIn, setIsLoggedIn] = useState(false)
   const [username, setUsername] = useState('')
