@@ -1,4 +1,4 @@
-//home page of the application
+//home page (root page) of the application
 import React from 'react'
 import Header from './header'
 
