@@ -1,3 +1,4 @@
+//main container which routes to the required page
 import React, { useState } from 'react'
 import './Chat.css'
 import {
