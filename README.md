@@ -1,6 +1,7 @@
 # Video Conferencing and Chat Application
 
 [View the Application](https://video-call-and-chat.netlify.app/)
+
 [View the Demo](https://youtu.be/hK9BaHOnJnw)
 
 This project has been built using the Agile Scrum Methodology:
