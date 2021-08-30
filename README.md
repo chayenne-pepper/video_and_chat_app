@@ -2,8 +2,6 @@
 
 [View the Application](https://video-call-and-chat.netlify.app/)
 
-[View the Demo](https://youtu.be/hK9BaHOnJnw)
-
 This project has been built using the Agile Scrum Methodology:
 1. [Weekly Sprint](https://trello.com/b/53V1bzJz/engage-agile-board)
 2. [Daily progress](https://docs.google.com/spreadsheets/d/1Df6OhQp8jlFYD7L73YcX8aWhjWzBfUbdZSpnr7GfTGA/edit#gid=0)
